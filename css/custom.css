@@ -3,12 +3,12 @@ body {
     text-align: center;
 }
 
-.logo {
+#logo {
     min-width: 50%;
     max-width: 80%;
 }
 
-.headline {
+#headline {
     font-size: 1.4em;
     margin-left: 10%;
     margin-right: 10%;
